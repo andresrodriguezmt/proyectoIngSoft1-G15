@@ -6,7 +6,7 @@ public class Operaciones {
     }
 
     public String sumar(String a, String b){
-        return a + b;
+        return a + b + "Andres";
     }
     public int multiplicar(int a, int b) {
         return a*b+20;
