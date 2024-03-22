@@ -1,7 +1,7 @@
 package co.vinni.appDemo;
 
 
-public class Operaciones{
+public class Utilidad{
 
     public int convertirFecha(Date a){
 
